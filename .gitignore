@@ -1,0 +1,6 @@
+log/
+tmp/
+public/assets/
+spec/cassettes/
+.alt-login.txt
+.zeus.sock
